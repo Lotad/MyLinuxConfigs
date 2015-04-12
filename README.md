@@ -3,7 +3,7 @@ My linux software configuration. Useful for future reinstalls
 
 ---
 
-##.local/bin:
+###.local/bin:
 (folder) imgur-screenshot
 (symlink) imgur-screenshot
 trans (google translate cli)
